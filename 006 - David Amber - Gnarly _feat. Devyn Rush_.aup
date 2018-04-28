@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="006 - David Amber - Gnarly _feat. Devyn Rush__data" version="1.3.0" audacityversion="2.2.2" sel0="79.9845128181" sel1="91.9042180336" vpos="0" h="0.0000000000" zoom="8.9767378046" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="WOAF" value="http://www.jamendo.com/en/track/1253559"/>
+		<tag name="MUSICBRAINZ_ALBUMARTIST" value="David Amber"/>
+		<tag name="TITLE" value="Gnarly (feat. Devyn Rush)"/>
+		<tag name="JAMENDO-TRACK-ID" value="1243462"/>
+		<tag name="DESCRIPTION" value="http://www.jamendo.com"/>
+		<tag name="GENRE" value="rock"/>
+		<tag name="COMMENT" value="http://www.jamendo.com"/>
+		<tag name="ALBUM" value="David Amber and Friends, Vol. 1"/>
+		<tag name="ARTIST" value="David Amber"/>
+		<tag name="COPYRIGHT" value="http://creativecommons.org/licenses/by/3.0/"/>
+		<tag name="WCOP" value="http://creativecommons.org/licenses/by/3.0/"/>
+		<tag name="TRACKNUMBER" value="3"/>
+		<tag name="LICENSE" value="http://creativecommons.org/licenses/by/3.0/"/>
+		<tag name="YEAR" value="2015"/>
+		<tag name="ORGANIZATION" value="http://www.jamendo.com"/>
+		<tag name="PUBLISHER" value="http://www.jamendo.com"/>
+		<tag name="ENCODED-BY" value="http://www.jamendo.com"/>
+	</tags>
+	<wavetrack name="006 - David Amber - Gnarly _feat. Devyn Rush_" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3935071">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f86f.au" len="262144" min="-1.0" max="0.999969" rms="0.296056"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f7b9.au" len="262144" min="-1.0" max="0.999969" rms="0.305387"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f788.au" len="262144" min="-1.0" max="0.999969" rms="0.298791"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f630.au" len="262144" min="-1.0" max="0.999969" rms="0.321396"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1fc51.au" len="262144" min="-1.0" max="0.999969" rms="0.344147"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="eff1fd4f.au" len="262144" min="-1.0" max="0.999969" rms="0.33988"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="eff1f579.au" len="262144" min="-1.0" max="0.999969" rms="0.347505"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="eff1f4dc.au" len="262144" min="-1.0" max="0.999969" rms="0.30259"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="eff1f4df.au" len="262144" min="-1.0" max="0.999969" rms="0.345934"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="eff1ff7e.au" len="262144" min="-1.0" max="0.999969" rms="0.346136"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="eff1f27c.au" len="262144" min="-1.0" max="0.999969" rms="0.335815"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="eff1fa74.au" len="262144" min="-1.0" max="0.999969" rms="0.347642"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="eff1f271.au" len="262144" min="-1.0" max="0.999969" rms="0.36358"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="eff1f78f.au" len="262144" min="-1.0" max="0.999969" rms="0.314535"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="eff1f1e7.au" len="132527" min="-0.61515" max="0.63518" rms="0.17524"/>
+				</waveblock>
+				<waveblock start="3802543">
+					<simpleblockfile filename="eff1f835.au" len="132528" min="-0.325017" max="0.323825" rms="0.063212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="006 - David Amber - Gnarly _feat. Devyn Rush_" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3935071">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ff93.au" len="262144" min="-1.0" max="0.999969" rms="0.302417"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fcbb.au" len="262144" min="-1.0" max="0.999969" rms="0.31353"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1fcaf.au" len="262144" min="-1.0" max="0.999969" rms="0.304682"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f313.au" len="262144" min="-1.0" max="0.999969" rms="0.331585"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1f4a1.au" len="262144" min="-1.0" max="0.999969" rms="0.345521"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="eff1fa3a.au" len="262144" min="-1.0" max="0.999969" rms="0.341453"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="eff1fd71.au" len="262144" min="-1.0" max="0.999969" rms="0.346694"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="eff1f39f.au" len="262144" min="-1.0" max="0.999969" rms="0.304538"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="eff1f760.au" len="262144" min="-1.0" max="0.999969" rms="0.348098"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="eff1f80c.au" len="262144" min="-1.0" max="0.999969" rms="0.353206"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="eff1f4f7.au" len="262144" min="-1.0" max="0.999969" rms="0.33659"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="eff1f2db.au" len="262144" min="-1.0" max="0.999969" rms="0.340455"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="eff1f4f9.au" len="262144" min="-1.0" max="0.999969" rms="0.367633"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="eff1f73c.au" len="262144" min="-1.0" max="0.999969" rms="0.317059"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="eff1f68b.au" len="132527" min="-0.615457" max="0.615367" rms="0.176334"/>
+				</waveblock>
+				<waveblock start="3802543">
+					<simpleblockfile filename="eff1f0ec.au" len="132528" min="-0.325017" max="0.323796" rms="0.064129"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
